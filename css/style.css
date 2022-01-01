@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+
+main {
+    margin: 10px 20px;
+    border: solid 3px rgba(216, 98, 216, 0.856);
+}
+
+input[type="text"] {
+    outline: none;
+    border: none;
+}
+
+input[type="text"] {
+    border-bottom: dotted 2px black;
+    width: 220px;
+    text-transform: uppercase;
+}
+
+input[type="text"]:focus {
+    background-color: red;
+}
+
+.form, .for {
+    text-align: end;
+    font-weight: 900;
+}
+
+.for {
+    position: relative;
+    left: 28%;
+}
+
+.time {
+    border: black solid 6px;
+    width: 19%;
+    border-bottom-width: 10px;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    position: absolute;
+    left: 15%;
+    bottom: 80%;
+    font-weight: 900;
+}
+
+.tems {
+    letter-spacing: 2px;
+}
+
+div .eleven {
+    font-weight: 900;
+    position: absolute;
+    left: 70%;
+    bottom: 30%;
+    font-size: 50px;
+}
+
+.head, .senior {
+    text-align: center;
+}
+
+.head {
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.senior {
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.dress {
+    text-align: end;
+    width: 86%;
+    font-weight: 900;
+    margin: 5px 0;
+}
+
+.general, .paper {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.school {
+    margin-top: 220px;
+}
+
+.fixed {
+    position: absolute;
+    right: 30%;
+    bottom: 85%;
+}
+
+.booklet {
+    margin-left: 180px;
+}
+
+.start, .ssc, .star, .sta, .st, .strat, .stra, .str {
+    letter-spacing: 3px;
+}
+
+.start {
+    font-style: italic;
+}
+
+.foot {
+    margin-top: 200px;
+    text-align: center;
+}
